@@ -1,0 +1,1 @@
+LOCAL_PATH := device/eebbk/H3000X

@@ -1,0 +1,5 @@
+PRODUCT_MAKEFILES := \
+    $(LOCAL_DIR)/omni_H3000X.mk
+
+COMMON_LUNCH_CHOICES := \
+    omni_H3000X-eng
