@@ -1,1 +1,1 @@
-LOCAL_PATH := device/eebbk/H3000X
+LOCAL_PATH := device/EEBBK/H3000X
